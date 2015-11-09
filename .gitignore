@@ -1,0 +1,11 @@
+# Android Studio
+/build
+.idea
+*.iml
+
+# Mac
+.DS_Store
+
+# Local Configuration
+proguard-rules.pro
+

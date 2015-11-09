@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AreYouSure</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
